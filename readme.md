@@ -13,11 +13,12 @@
 
 ## Usage
 
-Open `rose-pine.tdesktop-theme` or apply theme through [this link](https://t.me/addtheme/Rose_Pine_TelegramDesktop)
+Open the `rose-pine.tdesktop-theme` file or apply the theme using [this link](https://t.me/addtheme/Rose_Pine_TelegramDesktop)
 
 ## Gallery
 
 ![Rosé Pine with App](https://i.imgur.com/kOjbXV1.jpeg)
+>The font used is Iosevka
 
 ## Thanks to
 
