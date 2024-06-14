@@ -13,13 +13,19 @@
 
 ## Usage
 
+### Rosé Pine
 Open the `rose-pine.tdesktop-theme` file or apply the theme using [this link](https://t.me/addtheme/Rose_Pine_TelegramDesktop)
+### Rosé Pine Moon
+Open the `rose-pine-moon.tdesktop-theme` file or apply the theme using [this link](https://t.me/addtheme/Rose_Pine_Moon_TelegramDesktop)
 
 ## Gallery
 
+### Rosé Pine
 ![Rosé Pine with App](https://i.imgur.com/kOjbXV1.jpeg)
 >The font used is Iosevka
+### Rosé Pine Moon
+![Rosé Pine Moon with App](https://i.imgur.com/lUQRk3F.png)
 
 ## Thanks to
-
 - [nymver](https://github.com/nymver)
+- [sophyx](https://github.com/sophyx)
